@@ -1,0 +1,24 @@
+{
+  "name": "manish-greatings",
+  "version": "1.0.0",
+  "description": "This is to wish your friends on various events",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manish123297/simple-npm-package.git"
+  },
+  "keywords": [
+    "wish",
+    "my",
+    "friends"
+  ],
+  "author": "Manish Chaudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manish123297/simple-npm-package/issues"
+  },
+  "homepage": "https://github.com/manish123297/simple-npm-package#readme"
+}
